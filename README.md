@@ -30,7 +30,7 @@ APP  REDBROWN REACT JS
 13. Restart Web App Services
 
 
-## REFERENCIAS
+## REFERENCE
 - [deploy-docker-webapp](https://learn.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-docker-webapp?view=azure-devops&tabs=java%2Cyaml)
 - [azure-rm-endpoint](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/azure-rm-endpoint?view=azure-devops)
 - [container-registry-roles](https://learn.microsoft.com/es-mx/azure/container-registry/container-registry-roles?tabs=azure-)
