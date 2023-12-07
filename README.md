@@ -1,4 +1,4 @@
-# Getting Started with RedBrown app
+# Getting Started with RedBrown app deploy with Azure Devops
 APP  REDBROWN REACT JS 
 
 ## Prerequisite
