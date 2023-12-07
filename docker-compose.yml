@@ -1,0 +1,19 @@
+version: "3.5"
+
+services:
+  client:
+    image: redbrowapp:20.alpine
+    container_name: redbrowApp
+    restart: always
+    environment:
+      NODE_ENV: local
+    stdin_open: true  
+    ports:
+      - "2121:3000"
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    volumes:
+      - "./:/app"    
+      - "/node_modules"    
+    tty: true  
