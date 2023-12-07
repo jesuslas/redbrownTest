@@ -31,7 +31,7 @@ APP  REDBROWN REACT JS
 
 
 ## REFERENCIAS
-https://learn.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-docker-webapp?view=azure-devops&tabs=java%2Cyaml
-https://learn.microsoft.com/en-us/azure/devops/pipelines/release/azure-rm-endpoint?view=azure-devops
-https://learn.microsoft.com/es-mx/azure/container-registry/container-registry-roles?tabs=azure-
-https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/azure-web-app-container-v1?view=azure-pipelines
+- [deploy-docker-webapp](https://learn.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-docker-webapp?view=azure-devops&tabs=java%2Cyaml)
+- [azure-rm-endpoint](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/azure-rm-endpoint?view=azure-devops)
+- [container-registry-roles](https://learn.microsoft.com/es-mx/azure/container-registry/container-registry-roles?tabs=azure-)
+- [azure-web-app-container-v1](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/azure-web-app-container-v1?view=azure-pipelines)
